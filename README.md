@@ -9,7 +9,7 @@ Project to learn a build Tianocore and EDK2-LibC Python
 - [ ] Install GH CLI on workstations
 - [ ] Install OpenSSH on workstations
 - [ ] Install GH for Windows on workstations
-- [ ] Install Windows Terminal
+- [x] Install Windows Terminal
 - [ ] Install WSL2
 - [ ] Under WSL2, install QEMU under WSL2
 - [ ] Create an OpenSSH key for github
