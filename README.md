@@ -7,6 +7,7 @@ Project to learn a build Tianocore and EDK2-LibC Python
 - [x] Create a github repository
 - [x] Add members to the repo
 - [ ] Install GH CLI on workstations
+- [ ] Install ms365 on Teams
 - [ ] Install OpenSSH on workstations
 - [ ] Install GH for Windows on workstations
 - [x] Install Windows Terminal
