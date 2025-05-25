@@ -6,16 +6,16 @@ Project to learn a build Tianocore and EDK2-LibC Python
 ### Workstation Setup
 - [x] Create a github repository
 - [x] Add members to the repo
-- [ ] Install GH CLI on workstations
-- [ ] Install ms365 on Teams
-- [ ] Install OpenSSH on workstations
-- [ ] Install GH for Windows on workstations
+- [x] Install GH CLI on workstations
+- [x] Install ms365 on Teams
+- [x] Install OpenSSH on workstations
+- [x] Install GH for Windows on workstations
 - [x] Install Windows Terminal
-- [ ] Install WSL2
+- [x] Install WSL2
 - [ ] Under WSL2, install QEMU under WSL2
-- [ ] Create an OpenSSH key for github
-- [ ] Add the SSH key to github profile
-- [ ] Authenticate with GH through GH cli
+- [x] Create an OpenSSH key for github
+- [x] Add the SSH key to github profile
+- [x] Authenticate with GH through GH cli
 - [ ] Clone the lesson repository
 
 ### Code Setup
